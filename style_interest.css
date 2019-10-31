@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.button
+{
+    background-color: rgb(0, 132, 255);
+}
+.button ul 
+{
+    display: inline-flex;
+    margin: 50px;
+}
+.button ul li
+{
+    color: rgb(20, 22, 20);
+    margin-left: 2pc;
+    margin-right: 2pc;
+}
+h1
+{
+    margin: 1cm;
+    color: rgb(204, 27, 27);
+}
+ul
+{
+    padding: 2%;
+    font-size: 5mm;
+    margin-left: 6cm;
+}
+.fotter
+{
+    background-color: rgb(0, 132, 255);
+}
